@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cold, an 18 years old computer science studient from Reims, in France.
+I'm Clément (Cold), an 18 years old computer science studient from Reims, in France.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:coldcitywish@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/254638264076468234)
 
