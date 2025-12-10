@@ -13,6 +13,6 @@ I'm Clément (Cold), an 19 years old computer science studient from Reims, in Fr
 - **OS** : ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 - **Database** : ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
 
-![Statistiques Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Cold-FR&theme=buefy&hide_border=true)  
+![Statistiques Github](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Cold-FR&layout=compact&langs_count=8&card_width=320)  
 [![Discord Presence](https://lanyard.cnrad.dev/api/254638264076468234?showDisplayName=true&idleMessage=Aucune%20activit%C3%A9%20%C3%A0%20afficher%20~%20No%20current%20activity%20to%20display)](https://discord.com/users/254638264076468234)  
 ![Profile Views](https://komarev.com/ghpvc/?username=cold-fr&base=68)
